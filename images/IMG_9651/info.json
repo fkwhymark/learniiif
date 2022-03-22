@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 108,
+    "height" : 72
+  }, {
+    "width" : 216,
+    "height" : 144
+  }, {
+    "width" : 432,
+    "height" : 288
+  }, {
+    "width" : 864,
+    "height" : 576
+  }, {
+    "width" : 1728,
+    "height" : 1152
+  }, {
+    "width" : 3456,
+    "height" : 2304
+  } ],
+  "profile" : "level0",
+  "width" : 3456,
+  "id" : "https://fkwhymark.github.io/learniiif/images/IMG_9651",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 2304
+}
