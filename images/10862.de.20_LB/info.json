@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 137,
+    "height" : 82
+  }, {
+    "width" : 274,
+    "height" : 163
+  }, {
+    "width" : 547,
+    "height" : 325
+  }, {
+    "width" : 1094,
+    "height" : 649
+  }, {
+    "width" : 2188,
+    "height" : 1297
+  }, {
+    "width" : 4375,
+    "height" : 2594
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 4375,
+  "@id" : "https://fkwhymark.github.io/learniiif/images/10862.de.20_LB",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 2594
+}
